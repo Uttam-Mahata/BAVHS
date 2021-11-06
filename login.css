@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+  margin: 200px;
+  background-color: lightyellow;
+  font-size: 30px;
+}
+input {
+  border: 1px solid black;
+  border-radius: 5px;
+  height: 60px;
+  width: 500px;
+}
